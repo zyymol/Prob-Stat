@@ -92,6 +92,9 @@
 | 页面 | 类型 | 状态 |
 |------|------|------|
 | [[distribution-families]] | hub | TODO |
+| [[random-variable]] | concept | high ⬆ |
+| [[cdf-and-pdf]] | concept | high ⬆ |
+| [[distribution-function-method]] | concept | medium ⬆ |
 | [[normal-distribution]] | concept | TODO |
 | [[multivariate-normal]] | concept | TODO |
 | [[chi-squared-distribution]] | concept | TODO |

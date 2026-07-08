@@ -4,6 +4,15 @@
 
 ---
 
+## [2026-07-08] ingest | 第1周周二：随机变量与分布函数
+
+Source: raw/notes/1-2.txt
+Phase: 0 Week 1 Day 2
+Pages created: wiki/concepts/random-variable.md, wiki/concepts/cdf-and-pdf.md, wiki/concepts/distribution-function-method.md
+Confidence: random-variable=high, cdf-and-pdf=high, distribution-function-method=medium
+Common errors: 链式法则求导遗漏；E[g(X)] 忘记用已知矩简化
+Tags: 工科复习, PDF vs CDF, 分布函数法, 链式法则
+
 ## [2026-07-08] ingest | 第1周周一：概率空间与基本概率计算
 
 Source: raw/notes/practice note 1-1.txt
