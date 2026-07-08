@@ -4,6 +4,14 @@
 
 ---
 
+## [2026-07-08] ingest | 第1周周一：概率空间与基本概率计算
+
+Source: raw/notes/practice note 1-1.txt
+Phase: 0 Week 1 Day 1
+Pages created: wiki/concepts/bayes-formula.md, wiki/concepts/probability-space.md, wiki/concepts/series-limit-identification.md
+Confidence: bayes-formula=high, probability-space=high, series-limit-identification=medium
+Tags: 工科复习, Bayes公式, 古典概型, 错排
+
 ## [2026-07-07] init | 丘赛概率统计备考知识库初始化
 
 - 创建三层目录结构（raw/ wiki/ templates/）

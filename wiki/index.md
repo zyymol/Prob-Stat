@@ -1,6 +1,6 @@
 # 丘赛概率统计备考 Wiki — 主目录
 
-> 最后更新：2026-07-07
+> 最后更新：2026-07-08
 
 ## 集群导航
 
@@ -18,8 +18,14 @@
 | [[monotone-convergence-theorem]] | concept | TODO |
 | [[fubini-theorem]] | concept | TODO |
 
+| [[probability-space]] | concept | high ⬆ |
+
 ### convergence — 收敛模式
 *Hub: [[convergence-modes]]*
+
+| 页面 | 类型 | 状态 |
+|------|------|------|
+| [[series-limit-identification]] | concept | medium ⬆ |
 
 | 页面 | 类型 | 状态 |
 |------|------|------|
@@ -48,6 +54,7 @@
 | 页面 | 类型 | 状态 |
 |------|------|------|
 | [[conditional-expectation]] | hub | TODO |
+| [[bayes-formula]] | concept | high ⬆ |
 | [[tower-property]] | concept | TODO |
 | [[conditional-variance]] | concept | TODO |
 | [[jensen-inequality-conditional]] | concept | TODO |

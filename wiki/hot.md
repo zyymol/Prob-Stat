@@ -1,28 +1,28 @@
 # Hot Cache — 会话热缓存
 
-> 每次会话开头静默读取。~500 词。会话后或"收工"时更新（覆盖非追加）。
-
 ## Current Focus
 
-知识库刚初始化（2026-07-07）。骨架已就绪：16 个集群、~100 个概念页占位（状态 TODO）。等待首次 ingest 填充内容。
+第1周工科概统复习 Day1 完成。用户基础扎实：Bayes公式和链式更新全对，概率空间三元组理解正确，提出了"为什么F不能取全体子集"的关键问题。唯一薄弱点：级数极限辨识（混淆 n! 和 n 在分母）。
+
+置信度分布：high=2 (bayes, prob-space), medium=1 (series-limit), low=0.
 
 ## Open Questions
 
-- 首份 ingest 内容选择：建议从考纲 PDF 或真题分析报告开始
-- Phase 0 测度论学习的教材笔记将是第一批大量 ingest 的内容
+- 事件域F为什么不能取全体子集（Vitali集）→ 第2周解答
+- 级数极限辨识是硬伤 → 明天间隔重复回顾（规则：3天后 medium 概念回炉）
 
 ## Recent Decisions
 
-- 采用独立 kb-wiki 实例（与物理/数学 kb-wiki 隔离），未来可合并
-- 16 个集群对应 YPS-LIF 学习计划的 16 个模块
-- 概念页 frontmatter 新增 `exam_years` 和 `difficulty` 字段（相比原版 kb-wiki 的定制）
+- Turn分拆确认：D-Recall→D-Study确认点→D-Practice→D-Verify→D-Refactor严格分turn输出
+- 证明模式：本周复习阶段以计算为主，不填证明模式
 
 ## Last Operations
 
-- 2026-07-07: 初始化知识库（AGENTS.md, index.md, log.md, overview.md, hot.md, templates/）
+- 2026-07-08: 首次ingest — Week1 Day1 概率空间+Bayes+错排，创建3个概念页
+- 2026-07-07: 初始化知识库，搭建YPS-LIF+kb-wiki框架
 
 ## Active Pages
 
-- [[index]] — 主目录
-- [[overview]] — 集群导航
-- AGENTS.md — 生产规范
+- [[bayes-formula]] — confidence: high
+- [[probability-space]] — confidence: high, open_question: Vitali集
+- [[series-limit-identification]] — confidence: medium, 需间隔重复
