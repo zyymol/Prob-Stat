@@ -2,35 +2,45 @@
 
 ## Current Focus
 
-第1周工科概统复习。Day1 完成（概率空间+Bayes），Day2 完成（随机变量+CDF/PDF+分布函数法）。进展顺利。
+第1周工科概统复习，三天完成：概率空间+Bayes(Day1) → 随机变量+CDF/PDF+分布函数法(Day2) → 六大分布族(Day3)。明天 Day4：多维随机变量+雅可比变换法。
 
-置信度分布：high=5 (bayes, prob-space, random-var, cdf-pdf, 另加昨日series-limit回顾后升级), medium=2 (series-limit, distribution-function-method), low=0.
+置信度分布：high=8, medium=5, low=0.
 
-## D-Refactor 本周标记
+## 本周关键错误池
 
-- Week 1 Day 1: 级数极限辨识 medium — Σ(-1)^n/n! vs Σ(-1)^n/n 混淆
-- Week 1 Day 2: 分布函数法 medium — 链式法则遗漏；E[g(X)] 硬积而非用已知矩
+- series-limit: Σ(-1)^n/n! vs Σ(-1)^n/n 混淆 (Day1)
+- dist-func-method: 链式法则遗漏导sqrt(y)；E[g(X)] 硬积 (Day2)
+- exponential: 率参数和均值互为倒数搞反 (Day3)
+- 计算疏忽: E[S]²系数 (Day3)
+
+## 概念掌握详表
+
+| 概念 | confidence | 备注 |
+|------|-----------|------|
+| bayes-formula | high | |
+| probability-space | high | open: Vitali集 |
+| random-variable | high | |
+| cdf-and-pdf | high | |
+| distribution-function-method | medium | 链式法则+矩简化 |
+| series-limit-identification | medium | 间距重复3天后 |
+| binomial | high | |
+| poisson | high | 注意和poisson过程的区别 |
+| geometric | high | 无记忆性 |
+| normal | high | |
+| exponential | medium | rate≠mean |
+| gamma | medium | α,β直觉弱 |
+| beta | medium | 直觉弱，明天雅可比推导 |
 
 ## Open Questions
 
+- Beta/Gamma PDF 推导（明天雅可比 → 第6周MGF）
 - Vitali 集构造（第2周测度论）
-- Beta/Gamma 分布定义（明天周三专场）
 
 ## Recent Decisions
 
-- Turn 分拆严格执行：Recall→Study 确认点→Practice→Verify→Refactor 分 turn 输出
-- 题设计改进：避免用未学分布名迷惑用户，分布名叫什么不影响计算
+- 用户建议：D-Verify 批改结果由 AI 直接写入 wiki，用户只写 D-Refactor
 
 ## Last Operations
 
-- 2026-07-08: ingest W1D2 — 创建 random-variable, cdf-and-pdf, distribution-function-method
-- 2026-07-08: ingest W1D1 — 创建 bayes-formula, probability-space, series-limit-identification
-
-## Active Pages
-
-- [[distribution-function-method]] — confidence: medium, 常见错误: 链式法则
-- [[series-limit-identification]] — confidence: medium, 需间隔重复 (3天后)
-- [[bayes-formula]] — confidence: high
-- [[probability-space]] — confidence: high
-- [[random-variable]] — confidence: high
-- [[cdf-and-pdf]] — confidence: high
+- 2026-07-08: ingest W1D3 — 六大分布，创建 exp/gamma/beta 概念页
+- 2026-07-08: ingest W1D2, W1D1

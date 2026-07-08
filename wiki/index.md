@@ -100,8 +100,9 @@
 | [[chi-squared-distribution]] | concept | TODO |
 | [[t-distribution]] | concept | TODO |
 | [[f-distribution]] | concept | TODO |
-| [[gamma-distribution]] | concept | TODO |
-| [[beta-distribution]] | concept | TODO |
+| [[exponential-distribution]] | concept | medium ⬆ |
+| [[gamma-distribution]] | concept | medium ⬆ |
+| [[beta-distribution]] | concept | medium ⬆ |
 | [[order-statistics]] | concept | TODO |
 | [[exponential-family]] | concept | TODO |
 

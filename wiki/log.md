@@ -2,6 +2,15 @@
 
 > 仅追加，永不删除条目。grep 技巧：`grep "^## \[" wiki/log.md | tail -5`
 
+## [2026-07-08] ingest | 第1周周三：六大分布族
+
+Source: raw/notes/1-3.txt
+Phase: 0 Week 1 Day 3
+Pages created: wiki/concepts/exponential-distribution.md, wiki/concepts/gamma-distribution.md, wiki/concepts/beta-distribution.md
+Confidence: binomial=high, poisson=high, geometric=high, normal=high, exponential=medium (率vs均值), gamma=medium (直觉弱), beta=medium (直觉弱)
+Common errors: Exp rate≠mean；E[S]² 系数检查遗漏
+Tags: 工科复习, 六大分布, Gamma可加性, Beta-Gamma关系, 无记忆性
+
 ---
 
 ## [2026-07-08] ingest | 第1周周二：随机变量与分布函数
