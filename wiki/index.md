@@ -101,8 +101,11 @@
 | [[t-distribution]] | concept | TODO |
 | [[f-distribution]] | concept | TODO |
 | [[exponential-distribution]] | concept | medium ⬆ |
-| [[gamma-distribution]] | concept | medium ⬆ |
-| [[beta-distribution]] | concept | medium ⬆ |
+| [[gamma-distribution]] | concept | high ⬆ |
+| [[beta-distribution]] | concept | high ⬆ |
+| [[jacobian-method]] | concept | high ⬆ |
+| [[covariance-and-correlation]] | concept | high ⬆ |
+| [[independence-vs-uncorrelated]] | concept | high ⬆ |
 | [[order-statistics]] | concept | TODO |
 | [[exponential-family]] | concept | TODO |
 

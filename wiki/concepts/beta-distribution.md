@@ -5,16 +5,15 @@ aliases: [Beta distribution]
 sources: []
 related: [[gamma-distribution]], [[beta-distribution]], [[uniform-distribution]]
 created: 2026-07-08
-updated: 2026-07-08
-confidence: medium
+updated: 2026-07-09
+confidence: high
 cluster: distribution-theory
 cluster_role: member
 exam_years: [2012]
-difficulty: 3
+difficulty: 2
 contradictions: []
 open_questions:
   - "Beta 的直觉——为什么是'概率的概率'？（下周贝叶斯讲）"
-  - "PDF 怎么推导出来的（雅可比变换，明天讲）"
 ---
 
 # Beta 分布

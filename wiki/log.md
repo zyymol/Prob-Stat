@@ -2,6 +2,17 @@
 
 > 仅追加，永不删除条目。grep 技巧：`grep "^## \[" wiki/log.md | tail -5`
 
+## [2026-07-09] ingest | 第1周周四：多维RV+雅可比变换法+协方差
+
+Source: raw/notes/1-4.txt
+Phase: 0 Week 1 Day 4
+Pages created: wiki/concepts/jacobian-method.md, wiki/concepts/covariance-and-correlation.md, wiki/concepts/independence-vs-uncorrelated.md
+Pages updated: gamma-distribution(medium→high), beta-distribution(medium→high)
+Confidence: jacobian=high, covariance=high, independence-vs-uncorrelated=high
+Tags: 雅可比变换, Beta-Gamma关系推导, 协方差, 独立≠不相关
+
+---
+
 ## [2026-07-08] ingest | 第1周周三：六大分布族
 
 Source: raw/notes/1-3.txt

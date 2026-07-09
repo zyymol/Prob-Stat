@@ -5,16 +5,14 @@ aliases: [Gamma distribution]
 sources: []
 related: [[exponential-distribution]], [[beta-distribution]], [[chi-squared-distribution]]
 created: 2026-07-08
-updated: 2026-07-08
-confidence: medium
+updated: 2026-07-09
+confidence: high
 cluster: distribution-theory
 cluster_role: member
 exam_years: [2013, 2014, 2015]
-difficulty: 3
+difficulty: 2
 contradictions: []
-open_questions:
-  - "$\alpha, \beta$ 的实际直觉含义"
-  - "PDF 怎么推导出来的（矩母函数法，第6周）"
+open_questions: []
 ---
 
 # Gamma 分布
