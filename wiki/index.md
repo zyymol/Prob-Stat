@@ -55,6 +55,7 @@
 |------|------|------|
 | [[conditional-expectation]] | hub | TODO |
 | [[bayes-formula]] | concept | high ⬆ |
+| [[conditional-expectation-engineering]] | concept | high ⬆ |
 | [[tower-property]] | concept | TODO |
 | [[conditional-variance]] | concept | TODO |
 | [[jensen-inequality-conditional]] | concept | TODO |
@@ -106,6 +107,7 @@
 | [[jacobian-method]] | concept | high ⬆ |
 | [[covariance-and-correlation]] | concept | high ⬆ |
 | [[independence-vs-uncorrelated]] | concept | high ⬆ |
+| [[covariance-matrix]] | concept | high ⬆ |
 | [[order-statistics]] | concept | TODO |
 | [[exponential-family]] | concept | TODO |
 

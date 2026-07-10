@@ -2,6 +2,16 @@
 
 > 仅追加，永不删除条目。grep 技巧：`grep "^## \[" wiki/log.md | tail -5`
 
+## [2026-07-10] ingest | 第1周周五：条件期望（工科版）+协方差矩阵
+
+Source: raw/notes/1-5.txt
+Phase: 0 Week 1 Day 5
+Pages created: conditional-expectation-engineering, covariance-matrix
+Confidence: 全部high，无错误
+Tags: 塔性质, 条件方差分解, Σ vs ρ, Cov双线性性
+
+---
+
 ## [2026-07-09] ingest | 第1周周四：多维RV+雅可比变换法+协方差
 
 Source: raw/notes/1-4.txt
