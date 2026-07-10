@@ -95,13 +95,13 @@
 | [[distribution-families]] | hub | TODO |
 | [[random-variable]] | concept | high ⬆ |
 | [[cdf-and-pdf]] | concept | high ⬆ |
-| [[distribution-function-method]] | concept | medium ⬆ |
+| [[distribution-function-method]] | concept | high ⬆ |
 | [[normal-distribution]] | concept | TODO |
 | [[multivariate-normal]] | concept | TODO |
 | [[chi-squared-distribution]] | concept | TODO |
 | [[t-distribution]] | concept | TODO |
 | [[f-distribution]] | concept | TODO |
-| [[exponential-distribution]] | concept | medium ⬆ |
+| [[exponential-distribution]] | concept | high ⬆ |
 | [[gamma-distribution]] | concept | high ⬆ |
 | [[beta-distribution]] | concept | high ⬆ |
 | [[jacobian-method]] | concept | high ⬆ |

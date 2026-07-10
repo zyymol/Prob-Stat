@@ -6,7 +6,7 @@ sources: []
 related: [[gamma-distribution]], [[geometric-distribution]]
 created: 2026-07-08
 updated: 2026-07-08
-confidence: medium
+confidence: high
 cluster: distribution-theory
 cluster_role: member
 exam_years: [2012, 2014, 2019]

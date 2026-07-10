@@ -3,7 +3,7 @@ type: concept
 title: "Beta分布"
 aliases: [Beta distribution]
 sources: []
-related: [[gamma-distribution]], [[beta-distribution]], [[uniform-distribution]]
+related: [[gamma-distribution]], [[uniform-distribution]], [[jacobian-method]]
 created: 2026-07-08
 updated: 2026-07-09
 confidence: high

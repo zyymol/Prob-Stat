@@ -6,11 +6,11 @@ sources: []
 related: [[cdf-and-pdf]], [[random-variable]]
 created: 2026-07-08
 updated: 2026-07-08
-confidence: medium
+confidence: high
 cluster: distribution-theory
 cluster_role: member
 exam_years: [2012, 2014]
-difficulty: 3
+difficulty: 2
 contradictions: []
 open_questions: []
 ---
